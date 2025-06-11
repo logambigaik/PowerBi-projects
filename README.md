@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio showcasing work from my Data Technician Skills Bootcamp.
 
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 <details>
 <summary><strong>📊 Power BI Projects</strong></summary>
@@ -21,7 +21,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
     ---
 </details>
 
-═══════════════════════════════════════════════════════════════════════════════════
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
 <details>
 <summary><strong>📉 Tableau Projects</strong></summary>
 
