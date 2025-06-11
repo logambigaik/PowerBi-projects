@@ -40,7 +40,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     ---
 </details>
-═══════════════════════════════════════════════════════════════════════════════════
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 <details>
 <summary><strong>🟦 SQL Projects</strong></summary>
@@ -61,7 +62,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
     ---
 </details>
 
-═══════════════════════════════════════════════════════════════════════════════════
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 <details>
 <summary><strong>📗 Excel Projects</strong></summary>
@@ -78,7 +79,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
     ---
 </details>
 
-═══════════════════════════════════════════════════════════════════════════════════
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
 <details>
 <summary><strong>🐼 Pandas – Jupyter Notebook</strong></summary>
 
@@ -94,7 +96,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
     ---
 </details>
 
-═══════════════════════════════════════════════════════════════════════════════════
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
 <details>
 <summary><strong>☁️ Azure Data Fabric</strong></summary>
 
@@ -109,7 +112,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
-═══════════════════════════════════════════════════════════════════════════════════
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
 ## 📬 Get in Touch
 
 I'm open to job opportunities, collaborations, and data projects!
