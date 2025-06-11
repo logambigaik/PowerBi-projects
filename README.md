@@ -13,28 +13,12 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 - Published and shared on Power BI Service.
 
 🔗 [View Project Files](https://github.com/yourusername/project-link](https://github.com/logambigaik/Sales-Dashboard-using-PowerBI)
-
-</details>
-
----
-
----
-
-<details>
-<summary><strong>📊 Power BI Projects</strong></summary>
-
-### 🔹 Adventure Works Dashboard
-- Created interactive visuals for regional sales.
-- Used slicers, cards, and bar charts to track KPIs.
-- Published and shared on Power BI Service.
-
 🔗 [View Project Files](https://github.com/logambigaik/Adventureworks-Sales-Analysis-using-Power-BI)
 
+
 </details>
 
 ---
-
-
 ---
 <details>
 <summary><strong>📗 Excel Projects</strong></summary>
@@ -59,8 +43,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 - Exported results for visualization.
 
 🔗 [NorthWind Database](https://github.com/logambigaik/Northwind-Database-SQL-Analysis)
-   [World Database](https://github.com/logambigaik/World-database-SQL-Analysis)
-   [SQLBOLT Lesson](https://github.com/logambigaik/SQL-Practice-sqlbolt)
+🔗 [World Database](https://github.com/logambigaik/World-database-SQL-Analysis)
+🔗[SQLBOLT Lesson](https://github.com/logambigaik/SQL-Practice-sqlbolt)
 
 
 </details>
