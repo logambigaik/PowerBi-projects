@@ -20,7 +20,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
+
 
 ![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)
 <details>
@@ -38,7 +38,6 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 <details>
@@ -57,7 +56,6 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <details>
@@ -74,7 +72,6 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 <details>
@@ -91,7 +88,6 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
 
 ![Azure](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <details>
@@ -114,11 +110,10 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 I'm open to job opportunities, collaborations, and data projects!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 🌐 [LinkedIn](https://linkedin.com/in/logak)  
 - 🐙 [GitHub](https://github.com/logambigaik)  
-- 📧 Email: yourname@email.com
+- 📧 Email: tskloga@email.com
 
 ---
 
 > 📌 *Thanks for visiting! This portfolio reflects my passion for turning data into impactful insights.*  
-> _– Loga K_
