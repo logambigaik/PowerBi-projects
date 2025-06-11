@@ -19,6 +19,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     🔗 [Adventure Works Analysis](https://github.com/logambigaik/Adventureworks-Sales-Analysis-using-Power-BI)
 
+    ---
 </details>
 
 
@@ -37,6 +38,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     🔗 [UK Employment Dashboard](https://github.com/logambigaik/UK-Employement-Dashboard-using-Tableau)
 
+
+    ---
 </details>
 
 
@@ -56,6 +59,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     🔗 [SQLBOLT Practice](https://github.com/logambigaik/SQL-Practice-sqlbolt)
 
+    ---
 </details>
 
 
@@ -71,6 +75,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     🔗 [Retail Sales Excel File](https://github.com/yourusername/project-link)
 
+    ---
 </details>
 
 
@@ -86,6 +91,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
     🔗 [Pandas Notebook](https://github.com/logambigaik/Pandas-Data-Analysis)
 
+    ---
 </details>
 
 
