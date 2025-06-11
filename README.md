@@ -7,7 +7,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 <details>
 <summary><strong>📊 Power BI Projects</strong></summary>
 
-# 🔹 Sales Dashboard
+# 🔹 PowerBI  Dashboard
 - Created interactive visuals for regional sales.
 - Used slicers, cards, and bar charts to track KPIs.
 - Published and shared on Power BI Service.
@@ -20,17 +20,19 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 </details>
 
 <details>
-<summary><strong>📗 Excel Projects</strong></summary>
+<summary><strong>Tableau Projects</strong></summary>
 
-# 🔹 Retail Sales Analysis
-- Used `SUM`, `AVERAGE`, and filter functions.
-- Analyzed sales by age group and commission trends.
-- Cleaned data using Excel table formatting.
+# 🔹 Tableau  Dashboard
+- Created interactive visuals for regional sales.
+- Used slicers, cards, and bar charts to track KPIs.
+- Published and shared on Power BI Service.
 
-🔗 [Download Excel File](https://github.com/yourusername/project-link)
+    * 🔗 [Superstore sales Dashboard](https://github.com/logambigaik/Superstore-Sales-overview-Tableau)
+
+    * 🔗 [UK Employment Dashboard ](https://github.com/logambigaik/UK-Employement-Dashboard-using-Tableau)
+
 
 </details>
-
 
 
 <details>
@@ -46,4 +48,16 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
    * 🔗 [World Database](https://github.com/logambigaik/World-database-SQL-Analysis)
      
    * 🔗 [SQLBOLT Lesson](https://github.com/logambigaik/SQL-Practice-sqlbolt)
+ 
+
+<details>
+<summary><strong>📗 Excel Projects</strong></summary>
+# 🔹 Retail Sales Analysis
+- Used `SUM`, `AVERAGE`, and filter functions.
+- Analyzed sales by age group and commission trends.
+- Cleaned data using Excel table formatting.
+
+🔗 [Download Excel File](https://github.com/yourusername/project-link)
+
+</details>
 
