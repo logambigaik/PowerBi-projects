@@ -42,6 +42,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 - Exported results for visualization.
 
    * 🔗 [NorthWind Database](https://github.com/logambigaik/Northwind-Database-SQL-Analysis)
+     
    * 🔗 [World Database](https://github.com/logambigaik/World-database-SQL-Analysis)
+     
    * 🔗 [SQLBOLT Lesson](https://github.com/logambigaik/SQL-Practice-sqlbolt)
 
