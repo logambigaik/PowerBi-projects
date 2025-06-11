@@ -6,8 +6,8 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 <details>
 <summary><strong>📊 Power BI Projects</strong></summary>
-
-**🔹 Sales Dashboards**
+![Power BI](https://img.shields.io/badge/-PowerBI-darkgreen?style=for-the-badge&logo=powerbi&logoColor=white)
+**🔹 PowerBI Dashboards**
 - Created interactive visuals for regional sales.
 - Used slicers, cards, and bar charts to track KPIs.
 - Published and shared on Power BI Service.
