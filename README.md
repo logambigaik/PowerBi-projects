@@ -2,9 +2,7 @@
 
 Welcome to my project portfolio showcasing work from my Data Technician Skills Bootcamp.
 
-![Divider](https://img.shields.io/badge/-⬇️_Next_Section-000000?style=for-the-badge)
-
-
+═════════════════════════════════════
 
 <details>
 <summary><strong>📊 Power BI Projects</strong></summary>
@@ -23,7 +21,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
     ---
 </details>
 
-![Divider](https://img.shields.io/badge/-⬇️_Next_Section-000000?style=for-the-badge)
+═════════════════════════════════════
 
 
 <details>
