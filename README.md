@@ -2,6 +2,8 @@
 
 Welcome to my project portfolio showcasing work from my Data Technician Skills Bootcamp.
 
+---
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-darkgreen?style=for-the-badge&logo=powerbi&logoColor=white)
 <details>
 <summary><strong>📊 Power BI Projects</strong></summary>
@@ -18,6 +20,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 ---
 
+![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)
 <details>
 <summary><strong>📉 Tableau Projects</strong></summary>
 
@@ -32,6 +35,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 ---
 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 <details>
 <summary><strong>🟦 SQL Projects</strong></summary>
 
@@ -48,6 +52,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 ---
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <details>
 <summary><strong>📗 Excel Projects</strong></summary>
 
@@ -62,10 +67,11 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 ---
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 <details>
 <summary><strong>🐼 Pandas – Jupyter Notebook</strong></summary>
 
-### 📌 Data Cleaning & Analysis with Pandas
+**🔹 Data Cleaning & Analysis with Pandas**
 - Loaded, cleaned, and analyzed CSV data using `pandas`.
 - Used `groupby`, `merge`, and filtering techniques.
 - Visualized data with `matplotlib` and `seaborn`.
@@ -76,10 +82,11 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 ---
 
+![Azure](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <details>
 <summary><strong>☁️ Azure Data Factory</strong></summary>
 
-### 📌 Cloud Data Integration Project
+**🔹 Cloud Data Integration Project**
 - Built pipelines using Azure Data Factory.
 - Automated data ingestion from blob storage to SQL database.
 - Scheduled ETL workflows and monitored activities.
