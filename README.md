@@ -19,8 +19,6 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 
 </details>
 
----
----
 <details>
 <summary><strong>📗 Excel Projects</strong></summary>
 
