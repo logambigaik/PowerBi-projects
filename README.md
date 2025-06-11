@@ -1,4 +1,4 @@
-# 📁 Data Analyst Portfolio – Loga K
+# 📁 Data Analyst Portfolio 
 
 Welcome to my project portfolio showcasing work from my Data Technician Skills Bootcamp.
 
