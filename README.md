@@ -85,7 +85,7 @@ Welcome to my project portfolio showcasing work from my Data Technician Skills B
 - 🔁 Used `groupby`, `merge`, `filter`, and conditional logic  
 - 🧠 Visualized with `matplotlib` and `seaborn`
 
-    🔗 [Pandas Notebook](https://github.com/logambigaik/Pandas-Data-Analysis)
+    🔗 [Pandas Notebook](https://github.com/logambigaik/Finance-analysis)
 
     ---
 </details>
